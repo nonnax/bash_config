@@ -1,0 +1,4 @@
+! Use a truetype font and size.
+xterm*faceName: Monoid Nerd Font
+xterm*faceSize: 9
+XTerm*selectToClipboard: true
