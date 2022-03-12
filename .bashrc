@@ -181,3 +181,5 @@ export MRUBY_LIB="$HOME/mruby-sandbox/lib"
 # eval "$(rbenv init -)"
 # export PATH="$HOME/.rbenv/bin:$PATH"
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
+
+LS_COLORS="$LS_COLORS:ow=103;30;01"
